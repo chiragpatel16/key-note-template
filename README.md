@@ -17,4 +17,4 @@ Clean UI recreated from Tailwind Keynote template
 
 🔗 Live Demo
 
-Deployed here: add your deployment link
+Deployed here: "https://key-note-template.vercel.app/"
